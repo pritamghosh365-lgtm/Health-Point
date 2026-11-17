@@ -1,0 +1,6 @@
+{
+  "name": "Health Point",
+  "description": "Health Point Health Card maker with ATM smart card layout, auto ID generation, and multi-card management in green and gerua color theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
